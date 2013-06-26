@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<project ver="0.60" name="CRM" libEmbed="true" icon="res\logo.ico" CompanyName="上海瑞策软件有限公司" FileDescription="易客专用控制面板" LegalCopyright="Copyright (C) 上海瑞策软件有限公司 2013" ProductName="易客专用控制面板" InternalName="C3CRM Control Panel" FileVersion="1.1.1.001" ProductVersion="1.1.1.001" publishDir="/Publish/">
+	<file name="main.aau" path="main.aau"/>
+	<folder name="资源文件" path="res" embed="true">
+		<file name="task.aau" path="res\task.aau" comment="res\task.aau"/>
+		<file name="restore.aau" path="res\restore.aau" comment="res\restore.aau"/>
+		<file name="logo.ico" path="res\logo.ico" comment="res\logo.ico"/>
+		<file name="ftp_config.aau" path="res\ftp_config.aau" comment="res\ftp_config.aau"/>
+		<file name="banner.gif" path="res\banner.gif" comment="res\banner.gif"/>
+		<file name="backup.aau" path="res\backup.aau" comment="res\backup.aau"/>
+		<file name="3.bmp" path="res\3.bmp" comment="res\3.bmp"/>
+		<file name="2.bmp" path="res\2.bmp" comment="res\2.bmp"/>
+		<file name="1.bmp" path="res\1.bmp" comment="res\1.bmp"/>
+	</folder>
+</project>
